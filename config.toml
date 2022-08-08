@@ -1,5 +1,5 @@
 baseurl = "https://pijamas.beauty/"  # Include trailing slash
-title = "Hugo Themes"
+title = "Pijamas Beauty"
 theme = "hugo-swift-theme"
 # theme = "swift"
 author = "Steve Francia"
