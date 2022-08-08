@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://pijamas.beauty/"  # Include trailing slash
 title = "Hugo Themes"
 theme = "hugo-swift-theme"
 # theme = "swift"
